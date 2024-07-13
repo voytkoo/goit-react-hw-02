@@ -1,0 +1,12 @@
+.descriptContainer {
+  margin-bottom: 20px;
+}
+.descriptTitle {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+.descriptText {
+  font-size: 1.25em;
+  font-weight: 500;
+  margin-top: 50px;
+}

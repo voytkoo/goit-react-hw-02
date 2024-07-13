@@ -1,0 +1,6 @@
+.optionsBtnContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-bottom: 10px;
+}
